@@ -1,0 +1,35 @@
+_repo: Tarzan-the-invincible_71195
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Burroughs, Edgar Rice
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '48'
+    url: http://www.gutenberg.org/2009/agents/48
+    wikipedia: https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+  - agent_name: Frazetta, Frank
+    alias: Frazzetta, Frank
+    birthdate: 1928
+    deathdate: 2010
+    gutenberg_agent_id: '55809'
+    url: http://www.gutenberg.org/2009/agents/55809
+    wikipedia: https://en.wikipedia.org/wiki/Frank_Frazetta
+description: ''
+gutenberg_issued: '2023-07-15'
+identifiers:
+  gutenberg: '71195'
+language: en
+pgterms:marc905: 20230216122620burroughs
+pgterms:marc906: '1930'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bAce Books, Inc., $c1930.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tarzan the invincible
+url: http://www.gutenberg.org/ebooks/71195
